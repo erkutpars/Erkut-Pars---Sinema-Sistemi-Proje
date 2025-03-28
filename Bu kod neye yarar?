@@ -1,0 +1,13 @@
+Bu kod:
+Film bilgilerini (ad, süre, tür) dizilerde tutar.
+Müşteri bilgilerini (ad, email) dizilerde tutar.
+Bilet kayıtlarını müşteri-film eşleşmesi şeklinde tutar.
+Konsol üzerinden kullanıcı dostu bir arayüz sunar.
+Film ekleme, listeleme
+Müşteri ekleme, listeleme
+Bilet oluşturma, listeleme işlemlerini gerçekleştirir.
+Sistemi kullanmak için:
+Önce film ekleyebilirsiniz.
+Sonra müşteri kaydı yapabilirsiniz.
+Son olarak müşteriler için bilet oluşturabilirsiniz.
+Her aşamada listeleme yaparak mevcut kayıtları görüntüleyebilirsiniz.
